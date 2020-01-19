@@ -1,0 +1,45 @@
+.header {
+font-size: 20px;
+line-height: 1.5;
+margin: 60px auto;
+}
+.section{
+	padding: 25px 0;
+}
+.header span {
+display: block;
+text-align: center
+}
+.form-header, .section-header {
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 20px;
+}
+.form input {
+	margin-bottom: 15px;
+}
+.form {
+	border: 5px solid #2727d9;
+	padding: 35px 20px;
+}
+.for-btn {
+	margin: 12px auto;
+
+}
+.{
+	font-size: 20px;
+	font-weight: 900;
+}
+.feature{
+	margin: 60px auto;
+}
+.feature p {
+	margin-top: 20px;
+}
+.center-block {
+  display: table;
+  margin: 0 auto;
+}
+.feature-box {
+	height: 150px;
+}
